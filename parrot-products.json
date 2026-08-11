@@ -1,0 +1,602 @@
+[
+  {
+    "ProductId": "us-001",
+    "Marketplace": "US",
+    "Category": "food",
+    "Name": "Daily Maintenance Pellets for Medium Parrots",
+    "Description": "Extruded nutritionally complete pellets sized for conures and senegals, with added vitamin A and no artificial colouring.",
+    "Price": 28.99,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-002",
+    "Marketplace": "US",
+    "Category": "food",
+    "Name": "High Energy Macaw Seed Blend",
+    "Description": "A rich mix of sunflower, safflower, and shelled walnut formulated for large macaws that need extra fat through the winter.",
+    "Price": 34.5,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-003",
+    "Marketplace": "US",
+    "Category": "food",
+    "Name": "Organic Sprouting Seed Kit",
+    "Description": "Untreated mung, lentil, and quinoa seed sold with a mesh jar for growing fresh sprouts on the kitchen counter.",
+    "Price": 19.95,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-004",
+    "Marketplace": "US",
+    "Category": "food",
+    "Name": "Freeze Dried Tropical Fruit Treats",
+    "Description": "Papaya, mango, and banana pieces dried without added sugar for use as small training rewards.",
+    "Price": 12.75,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-005",
+    "Marketplace": "US",
+    "Category": "food",
+    "Name": "In-Shell Nut Variety Pack",
+    "Description": "Unsalted almonds, pecans, and brazil nuts left in the shell to encourage natural cracking behaviour.",
+    "Price": 24.0,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-006",
+    "Marketplace": "US",
+    "Category": "cages",
+    "Name": "Wrought Iron Flight Cage",
+    "Description": "A powder coated cage measuring 40 by 30 by 60 inches with horizontal bars for climbing and two front opening doors.",
+    "Price": 389.0,
+    "Currency": "USD",
+    "PriceTier": "premium"
+  },
+  {
+    "ProductId": "us-007",
+    "Marketplace": "US",
+    "Category": "cages",
+    "Name": "Stainless Steel Play Top Cage",
+    "Description": "A welded stainless cage with a removable ladder and a perch platform on the roof for supervised out of cage time.",
+    "Price": 749.0,
+    "Currency": "USD",
+    "PriceTier": "premium"
+  },
+  {
+    "ProductId": "us-008",
+    "Marketplace": "US",
+    "Category": "cages",
+    "Name": "Compact Corner Cage for Small Parrots",
+    "Description": "A triangular cage designed to fit into a room corner, suited to budgerigars, lovebirds, and parrotlets.",
+    "Price": 139.0,
+    "Currency": "USD",
+    "PriceTier": "premium"
+  },
+  {
+    "ProductId": "us-009",
+    "Marketplace": "US",
+    "Category": "cages",
+    "Name": "Modular Outdoor Aviary Panels",
+    "Description": "Galvanized mesh panels that bolt together into a walk-in flight enclosure for a backyard.",
+    "Price": 1150.0,
+    "Currency": "USD",
+    "PriceTier": "premium"
+  },
+  {
+    "ProductId": "us-010",
+    "Marketplace": "US",
+    "Category": "toys",
+    "Name": "Cardboard Shredding Bundle",
+    "Description": "A hanging cluster of untreated cardboard strips and palm leaf that a bird can tear apart over several days.",
+    "Price": 16.5,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-011",
+    "Marketplace": "US",
+    "Category": "toys",
+    "Name": "Foraging Puzzle Wheel",
+    "Description": "A clear rotating drum with compartments that release treats only when the bird turns it.",
+    "Price": 29.99,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-012",
+    "Marketplace": "US",
+    "Category": "toys",
+    "Name": "Hardwood Chew Blocks",
+    "Description": "Vegetable dyed hardwood blocks drilled onto a stainless chain for birds that destroy toys quickly.",
+    "Price": 21.0,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-013",
+    "Marketplace": "US",
+    "Category": "toys",
+    "Name": "Rope Boing Spiral Swing",
+    "Description": "A coiled cotton rope spring that bounces when a bird lands, hung from a ceiling hook.",
+    "Price": 33.25,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-014",
+    "Marketplace": "US",
+    "Category": "toys",
+    "Name": "Stainless Steel Foraging Ball",
+    "Description": "A hollow perforated sphere that holds nuts and requires manipulation to empty.",
+    "Price": 18.99,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-015",
+    "Marketplace": "US",
+    "Category": "perches",
+    "Name": "Natural Manzanita Branch Perch",
+    "Description": "An irregular hardwood branch with varying diameters that exercises the feet and reduces pressure sores.",
+    "Price": 26.0,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-016",
+    "Marketplace": "US",
+    "Category": "perches",
+    "Name": "Cotton Rope Bendable Perch",
+    "Description": "A flexible wire cored rope perch that can be shaped into arches or curves inside the cage.",
+    "Price": 17.5,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-017",
+    "Marketplace": "US",
+    "Category": "perches",
+    "Name": "Calcium Mineral Perch",
+    "Description": "A textured perch made from compressed mineral grit that helps keep nails blunt while supplementing calcium.",
+    "Price": 11.25,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-018",
+    "Marketplace": "US",
+    "Category": "perches",
+    "Name": "Thermostatic Heated Perch",
+    "Description": "A low voltage 120 volt perch that maintains gentle warmth for older birds in cold rooms.",
+    "Price": 54.0,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-019",
+    "Marketplace": "US",
+    "Category": "health",
+    "Name": "Avian Multivitamin Powder",
+    "Description": "A water soluble supplement providing vitamins A, D3, and E for birds on a seed heavy diet.",
+    "Price": 15.99,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-020",
+    "Marketplace": "US",
+    "Category": "health",
+    "Name": "Cuttlebone and Calcium Block Pair",
+    "Description": "A natural cuttlefish bone paired with a mineral block for beak conditioning and calcium intake.",
+    "Price": 8.5,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-021",
+    "Marketplace": "US",
+    "Category": "health",
+    "Name": "Feather Regrowth Supplement",
+    "Description": "An amino acid and biotin blend intended to support plumage quality during a heavy moult.",
+    "Price": 22.4,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-022",
+    "Marketplace": "US",
+    "Category": "health",
+    "Name": "Avian First Aid Kit",
+    "Description": "Styptic powder, blunt tipped scissors, and a vet wrap roll packed in a case for broken blood feathers and minor injuries.",
+    "Price": 41.0,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-023",
+    "Marketplace": "US",
+    "Category": "grooming",
+    "Name": "Aloe Vera Feather Misting Spray",
+    "Description": "A gentle spray that encourages preening and relieves dry skin caused by winter heating.",
+    "Price": 13.99,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-024",
+    "Marketplace": "US",
+    "Category": "grooming",
+    "Name": "Small Animal Nail Trimmer",
+    "Description": "Spring loaded clippers with a curved blade sized for parrot nails and a safety guard.",
+    "Price": 14.75,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-025",
+    "Marketplace": "US",
+    "Category": "grooming",
+    "Name": "Ceramic Bathing Dish",
+    "Description": "A heavy shallow dish that will not tip when a bird splashes, sized for the cage floor or a tabletop.",
+    "Price": 19.0,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-026",
+    "Marketplace": "US",
+    "Category": "travel",
+    "Name": "Ventilated Travel Carrier",
+    "Description": "A hard sided carrier with a built in perch and mesh windows, sized to fit under an airline seat.",
+    "Price": 89.0,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-027",
+    "Marketplace": "US",
+    "Category": "travel",
+    "Name": "Adjustable Flight Harness and Leash",
+    "Description": "A figure eight harness with a stretch leash for supervised time outdoors.",
+    "Price": 27.99,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "us-028",
+    "Marketplace": "US",
+    "Category": "travel",
+    "Name": "Clear Panel Backpack Carrier",
+    "Description": "A backpack with an acrylic viewing dome and an interior perch for carrying a bird on walks.",
+    "Price": 119.0,
+    "Currency": "USD",
+    "PriceTier": "premium"
+  },
+  {
+    "ProductId": "us-029",
+    "Marketplace": "US",
+    "Category": "training",
+    "Name": "Clicker and Target Stick Set",
+    "Description": "A finger clicker paired with a telescoping target stick for positive reinforcement training.",
+    "Price": 16.0,
+    "Currency": "USD",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "us-030",
+    "Marketplace": "US",
+    "Category": "training",
+    "Name": "Recall Training Guide for Companion Parrots",
+    "Description": "A paperback covering step by step flight recall and station training using positive reinforcement.",
+    "Price": 24.95,
+    "Currency": "USD",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-001",
+    "Marketplace": "EU",
+    "Category": "food",
+    "Name": "Complete Pellet Diet for African Greys",
+    "Description": "A cold pressed pellet formulated for African grey parrots with added calcium, supplied in a resealable two kilogram bag.",
+    "Price": 31.5,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-002",
+    "Marketplace": "EU",
+    "Category": "food",
+    "Name": "Low Sunflower European Parrot Mix",
+    "Description": "A seed blend that reduces sunflower content in favour of hemp, canary seed, and safflower for weight prone birds.",
+    "Price": 22.8,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-003",
+    "Marketplace": "EU",
+    "Category": "food",
+    "Name": "Dried Herb and Flower Forage Mix",
+    "Description": "Chamomile, marigold petals, and dandelion leaf for scattering through a foraging tray.",
+    "Price": 14.9,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-004",
+    "Marketplace": "EU",
+    "Category": "food",
+    "Name": "Sugar Free Fruit and Vegetable Chunks",
+    "Description": "Air dried carrot, beetroot, and apple pieces with no preservatives, suitable as daily enrichment.",
+    "Price": 11.6,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-005",
+    "Marketplace": "EU",
+    "Category": "food",
+    "Name": "Sprouting Pulse Blend 500 g",
+    "Description": "A mix of chickpeas, adzuki beans, and green peas intended for soaking and sprouting before feeding.",
+    "Price": 9.95,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-006",
+    "Marketplace": "EU",
+    "Category": "cages",
+    "Name": "Powder Coated Flight Cage 150 cm",
+    "Description": "A tall cage measuring 100 by 75 by 150 centimetres on castors, with a deep seed catcher around the base.",
+    "Price": 345.0,
+    "Currency": "EUR",
+    "PriceTier": "premium"
+  },
+  {
+    "ProductId": "eu-007",
+    "Marketplace": "EU",
+    "Category": "cages",
+    "Name": "Stainless Steel Parrot Cage with Play Roof",
+    "Description": "A fully welded stainless cage with an opening roof section that converts into a play area.",
+    "Price": 820.0,
+    "Currency": "EUR",
+    "PriceTier": "premium"
+  },
+  {
+    "ProductId": "eu-008",
+    "Marketplace": "EU",
+    "Category": "cages",
+    "Name": "Budgerigar Breeding Cage",
+    "Description": "A wire cage with a removable divider and a nest box opening for housing a breeding pair.",
+    "Price": 96.0,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-009",
+    "Marketplace": "EU",
+    "Category": "cages",
+    "Name": "Weatherproof Garden Aviary Kit",
+    "Description": "A treated timber frame with galvanised mesh panels and a sheltered night section for keeping birds outdoors.",
+    "Price": 1290.0,
+    "Currency": "EUR",
+    "PriceTier": "premium"
+  },
+  {
+    "ProductId": "eu-010",
+    "Marketplace": "EU",
+    "Category": "toys",
+    "Name": "Palm Leaf Shredding Garland",
+    "Description": "Woven natural palm strips on a hanging cord that a bird methodically unpicks over time.",
+    "Price": 13.4,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-011",
+    "Marketplace": "EU",
+    "Category": "toys",
+    "Name": "Wooden Treat Drawer Puzzle",
+    "Description": "A birch box with sliding drawers that must be pulled open to reach hidden almonds.",
+    "Price": 27.9,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-012",
+    "Marketplace": "EU",
+    "Category": "toys",
+    "Name": "Vegetable Dyed Wood Chew Toy",
+    "Description": "Blocks of untreated pine coloured with food grade dye and tested to EN 71 safety standards.",
+    "Price": 18.2,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-013",
+    "Marketplace": "EU",
+    "Category": "toys",
+    "Name": "Sisal Rope Ladder and Swing",
+    "Description": "A combined ladder and swing made from untreated sisal for climbing between perches.",
+    "Price": 23.0,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-014",
+    "Marketplace": "EU",
+    "Category": "toys",
+    "Name": "Stainless Foraging Kebab Skewer",
+    "Description": "A vertical skewer for threading fruit, vegetables, and wooden beads inside the cage.",
+    "Price": 16.75,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-015",
+    "Marketplace": "EU",
+    "Category": "perches",
+    "Name": "Untreated Fruitwood Branch Set",
+    "Description": "Apple and pear branches of assorted thickness harvested from unsprayed orchards.",
+    "Price": 21.5,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-016",
+    "Marketplace": "EU",
+    "Category": "perches",
+    "Name": "Flexible Cotton Rope Perch 90 cm",
+    "Description": "A bendable rope perch with stainless fittings that curves around the inside of a cage.",
+    "Price": 15.8,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-017",
+    "Marketplace": "EU",
+    "Category": "perches",
+    "Name": "Mineral and Grit Conditioning Perch",
+    "Description": "A rough surfaced perch that gradually wears the nails down while supplying trace minerals.",
+    "Price": 10.4,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-018",
+    "Marketplace": "EU",
+    "Category": "perches",
+    "Name": "Low Voltage Heated Perch 230 V",
+    "Description": "A thermostatically controlled perch running from a 230 volt adaptor, intended for elderly or unwell birds.",
+    "Price": 62.0,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-019",
+    "Marketplace": "EU",
+    "Category": "health",
+    "Name": "Liquid Vitamin Supplement for Drinking Water",
+    "Description": "A concentrated multivitamin dosed by pipette into fresh drinking water.",
+    "Price": 13.2,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-020",
+    "Marketplace": "EU",
+    "Category": "health",
+    "Name": "Cuttlefish Bone Twin Pack",
+    "Description": "Two natural cuttlefish bones supplied with clips, for beak wear and calcium supply.",
+    "Price": 6.9,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-021",
+    "Marketplace": "EU",
+    "Category": "health",
+    "Name": "Moulting Support Amino Acid Powder",
+    "Description": "A sprinkle on supplement containing methionine, lysine, and biotin to support feather formation.",
+    "Price": 19.75,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-022",
+    "Marketplace": "EU",
+    "Category": "health",
+    "Name": "Avian Emergency Care Set",
+    "Description": "Blood clotting powder, sterile gauze, and a feeding syringe packed for first response at home.",
+    "Price": 37.5,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-023",
+    "Marketplace": "EU",
+    "Category": "grooming",
+    "Name": "Chamomile Plumage Spray",
+    "Description": "A light botanical mist that softens feather dust and encourages regular preening.",
+    "Price": 12.3,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-024",
+    "Marketplace": "EU",
+    "Category": "grooming",
+    "Name": "Curved Claw Scissors",
+    "Description": "Stainless scissors with a rounded tip designed for trimming claws without splitting them.",
+    "Price": 13.9,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-025",
+    "Marketplace": "EU",
+    "Category": "grooming",
+    "Name": "Hanging Bath House",
+    "Description": "An enclosed plastic bath that clips onto the cage door and contains splashed water.",
+    "Price": 17.6,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-026",
+    "Marketplace": "EU",
+    "Category": "travel",
+    "Name": "IATA Approved Transport Box",
+    "Description": "A rigid carrier meeting IATA live animal container requirements for air travel within Europe.",
+    "Price": 94.0,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-027",
+    "Marketplace": "EU",
+    "Category": "travel",
+    "Name": "Padded Parrot Harness with Lead",
+    "Description": "An adjustable harness with padded straps and a coiled lead for exercise outdoors.",
+    "Price": 25.4,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-028",
+    "Marketplace": "EU",
+    "Category": "travel",
+    "Name": "Fold Flat Fabric Travel Cage",
+    "Description": "A collapsible mesh sided cage for vet visits and short journeys by car.",
+    "Price": 48.0,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  },
+  {
+    "ProductId": "eu-029",
+    "Marketplace": "EU",
+    "Category": "training",
+    "Name": "Training Clicker with Wrist Coil",
+    "Description": "A loud box clicker on an elastic wrist coil for hands free marker training.",
+    "Price": 7.5,
+    "Currency": "EUR",
+    "PriceTier": "budget"
+  },
+  {
+    "ProductId": "eu-030",
+    "Marketplace": "EU",
+    "Category": "training",
+    "Name": "Positive Reinforcement Handbook for Parrots",
+    "Description": "A guide to shaping behaviour, reducing biting, and building trust with a companion parrot.",
+    "Price": 26.0,
+    "Currency": "EUR",
+    "PriceTier": "mid"
+  }
+]
