@@ -1,4 +1,4 @@
-# DynamoDB Vector Search -- Parrot Shop Demo
+# DynamoDB Vector Search Demo
 
 A step-by-step demo of adding native vector search to DynamoDB, using a
 60-item "parrot shop" product catalogue as the running example. Built for a
